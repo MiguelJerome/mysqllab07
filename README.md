@@ -11,10 +11,10 @@ Laboratoire 7 - Recherche de données
  
 ### Project Resources 
 * mysql
-        - [distribue](https://github.com/MiguelJerome/mysql-Lab06/blob/main/distribue.sql)
-        - [solution](https://github.com/MiguelJerome/mysql-Lab06/blob/main/solution.sql)
+        - [distribue](https://github.com/MiguelJerome/mysqllab07/blob/main/distribue%20(2).sql)
+        - [solution](https://github.com/MiguelJerome/mysqllab07/blob/main/solution%20(2).sql)
 * LAB07
-        - [lab07](https://github.com/MiguelJerome/mysql-Lab06/blob/main/lab06.sql)        
+        - [lab07](https://github.com/MiguelJerome/mysqllab07/blob/main/mysqlLab07.sql)        
  
   
 ## Link for my main for all the ressources
